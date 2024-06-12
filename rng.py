@@ -1,7 +1,7 @@
 from random import randint
 
-min_number = int(input('Please enter the min number: '))
-max_number = int(input('Please enter the max number: '))
+min_number = 3
+max_number = 4
 
 if (max_number < min_number): 
   print('Invalid input - shutting down...')
