@@ -1,7 +1,7 @@
 from random import randint
 
-min_number = 3
-max_number = 4
+min_number = 300
+max_number = 143
 
 if (max_number < min_number): 
   print('Invalid input - shutting down...')
